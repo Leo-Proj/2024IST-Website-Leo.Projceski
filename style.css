@@ -1,0 +1,18 @@
+DIV {
+border: 1ppx solid #ffffff;
+}
+
+#Header {
+Height: 100px;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+background: url(images/banner.png) no-repeat;
+color:red;
+}
+
+#MainContent {
+Width: 800px;
+margin-right: auto;
+margin-left: auto;
+}
