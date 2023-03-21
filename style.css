@@ -59,5 +59,17 @@ margin-left: auto;
 	background: none;
 	border: none;
 	outline: none;
+	cursor: pointer;
+	
+	padding: 20px 40px;
+	border-radius: 8px;
+	color: #212121;
+	font-size: 28px;
+	font-weight: 600;
+	margin: 0 15px;
+	transition: 0.4s;
+}
+
+	
 }
 
